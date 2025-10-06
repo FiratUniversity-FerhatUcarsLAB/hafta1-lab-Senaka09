@@ -2,7 +2,7 @@
 AD-SOYAD: Nursena kaarduman 
 
 Lütfen seçtiğiniz algoritmaya ait çözümü ve diğer isterleri aşağıya ekleyiniz:
-(mükemmel omlet yapma)
+#mükemmel omlet yapma algoritması
 FONKSIYON MukemmelOmletYap(
     yumurta_sayisi, tuz_gram, tereyag_gram, sut_kasik,
     dolgular_listesi, kivam, tava_cap_cm
